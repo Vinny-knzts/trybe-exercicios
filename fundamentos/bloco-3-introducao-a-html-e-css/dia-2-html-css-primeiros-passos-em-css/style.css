@@ -1,0 +1,39 @@
+h1 {
+  font-family: sans-serif;
+  font-size: 65px;
+  color: orange;
+  text-align: center;
+}
+
+ul {
+  background-color: pink;
+  font-style: oblique;
+  line-height: 20px;
+  text-decoration: wavy;
+}
+
+.bg-color {
+  background-color: white;
+}
+
+p {
+  font-weight: 600;
+  font-size: 3em;
+}
+
+body {
+  font-size: 16px;
+  background-color: navy;
+}
+
+#amarelo {
+  color: yellow;
+}
+
+#vermelho {
+  color: red;
+}
+
+#marrom {
+  color: rgb(150, 75, 0);
+}
