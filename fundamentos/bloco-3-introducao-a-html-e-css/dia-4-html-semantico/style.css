@@ -24,3 +24,11 @@ nav ul li {
 main {
   background-color: white;
 }
+
+.fatos {
+  margin-left: 10px;
+}
+
+.fatos td {
+  padding-right: 50px;
+}
