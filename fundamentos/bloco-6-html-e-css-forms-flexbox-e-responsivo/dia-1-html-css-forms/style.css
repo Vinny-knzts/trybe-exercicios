@@ -1,0 +1,35 @@
+#form {
+  border: 5px;
+  border-style: solid;
+  border-color: black;
+  width: 50%;
+}
+
+p {
+  display: inline;
+}
+
+#option1,
+p,
+textarea,
+input {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 15px;
+}
+
+#input-nome {
+  margin-top: 10px;
+}
+
+#concordo2 {
+  margin-bottom: 10px;
+}
+
+button {
+  margin-top: 15px;
+}
+
+#pq-text {
+  display: block;
+}
